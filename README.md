@@ -1,5 +1,5 @@
 # Youtube UI Clone 
 
-This project is developed to practice and flutter widgets and RiverPod .
+This project is developed to practice and learn flutter widgets and RiverPod State Management.
 
 
